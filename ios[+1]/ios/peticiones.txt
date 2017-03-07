@@ -1,0 +1,633 @@
+POST {"descripcion" :"descripcion", "descripcionCorta":"descripcion corta", "titulo":"titulo", "fecha":"2/1/2017", "lugar":"lugar", "horaInicial":"10:00", "horaFinal":"10:01", "fotoRepresentativaExcursion":"foto", "idProfesor" :"19", "idGrupo" : "1" } actividad/
+POST actividad/ {"descripcion" :"descripcion 2", "descripcionCorta":"descripcion corta", "titulo":"titulo", "fecha":"2/1/2017", "lugar":"lugar", "horaInicial":"10:00", "horaFinal":"10:01", "fotoRepresentativaExcursion":"foto", "idProfesor" :"19", "idGrupo" : "1" }
+PUT actividad/ {"id": 100,"descripcion" :"descripcion 4", "descripcionCorta":"descripcion corta", "titulo":"titulo", "fecha":"2/1/2017", "lugar":"lugar", "horaInicial":"10:00", "horaFinal":"10:01", "fotoRepresentativaExcursion":"foto", "idProfesor" :"19", "idGrupo" : "1" }
+PUT actividad/ {"id": "100", "descripcion" :"descripcion 4", "descripcionCorta":"descripcion corta", "titulo":"titulo", "fecha":"2/1/2017", "lugar":"lugar", "horaInicial":"10:00", "horaFinal":"10:01", "fotoRepresentativaExcursion":"foto", "idProfesor" :"19", "idGrupo" : "1" }
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad/ 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+DELETE actividad {"id":"Optional(94)"}
+GET actividad 
+DELETE actividad {"id":"Optional(94)"}
+GET actividad 
+GET actividad 
+DELETE actividad {"id":"Optional(94)"}
+GET actividad 
+GET actividad 
+DELETE actividad {"id":"94"}
+GET actividad 
+DELETE actividad {"id":"94"}
+GET actividad 
+GET grupo 
+GET profesor 
+GET actividad 
+POST actividad {"idProfesor":18,"descripcion":"Asddafsdfsa","horaFinal":"9:45","horaInicial":"9:45","titulo":"dafssadfdafs","fecha":"2017-02-22","lugar":"adds fads","idGrupo":10}
+GET actividad 
+GET grupo 
+GET profesor 
+GET actividad 
+DELETE actividad {"id":"101"}
+GET actividad 
+GET actividad 
+DELETE actividad {"id":"94"}
+GET profesor 
+GET grupo 
+PUT actividad {"idProfesor":18,"id":97,"descripcion":"Sdfasadfsadf","horaFinal":"12:56","horaInicial":"12:56","titulo":"pepe","fecha":"2017-04-22","lugar":"adds","idGrupo":10}
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+DELETE actividad {"id":"94"}
+GET actividad 
+GET actividad 
+DELETE actividad {"id":"94"}
+DELETE actividad {"id":"101"}
+GET grupo 
+GET profesor 
+GET actividad 
+GET actividad 
+GET profesor 
+DELETE actividad {"id":"94"}
+DELETE actividad {"id": "47"}
+DELETE actividad {"id": "101"}
+GET actividad/101 
+DELETE actividad/101 {"id": "101"}
+GET actividad/101 
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+GET actividad 
+GET profesor 
+GET grupo 
+DELETE actividad/101 {"id": "101"}
+PUT actividad {"idProfesor":19,"id":94,"descripcion":"Sadfdsafdas","horaFinal":"12:23","horaInicial":"18:23","titulo":"pena","fecha":"2019-04-23","lugar":"asdfasdf","idGrupo":10}
+GET actividad 
+DELETE actividad/101 {"id": "101"}
+GET profesor 
+GET grupo 
+PUT actividad {"idProfesor":19,"id":94,"descripcion":"Sadfdsafdas","horaFinal":"12:23","horaInicial":"12:23","titulo":"pena","fecha":"2019-01-23","lugar":"asdfasdf","idGrupo":10}
+GET actividad 
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+DELETE actividad/101 {"id": "101"}
+GET grupo 
+GET profesor 
+GET actividad 
+PUT actividad {"idProfesor":18,"id":94,"descripcion":"Sadfdsafdas","horaFinal":"12:23","horaInicial":"12:23","titulo":"pena","fecha":"2019-01-23","lugar":"asdfasdf","idGrupo":10}
+DELETE actividad/101 {"id": "101"}
+GET actividad 
+GET grupo 
+GET profesor 
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+GET actividad 
+DELETE actividad/101 {"id": "101"}
+GET profesor 
+GET grupo 
+GET actividad 
+PUT actividad {"idProfesor":19,"id":94,"descripcion":"Sadfdsafdas","horaFinal":"12:23","horaInicial":"12:23","titulo":"pena","fecha":"2017-01-23","lugar":"asdfasdf","idGrupo":10}
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+PUT actividad {"idProfesor":18,"id":94,"descripcion":"Sadfdsafdas","horaFinal":"12:23","horaInicial":"12:23","titulo":"pena","fecha":"2019-01-23","lugar":"asdfasdf","idGrupo":10}
+GET actividad 
+GET grupo 
+GET profesor 
+PUT actividad {"idProfesor":19,"id":94,"descripcion":"Sadfdsafdas","horaFinal":"12:23","horaInicial":"12:23","titulo":"pena","fecha":"2019-01-23","lugar":"asdfasdf","idGrupo":10}
+GET actividad 
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+POST actividad {"idProfesor":20,"descripcion":"Asdfsdfsadfsdf","horaFinal":"10:19","horaInicial":"10:19","titulo":"Nueva","fecha":"2017-10-22","lugar":"dsfasdfasdf","idGrupo":6}
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+PUT actividad {"idProfesor":18,"id":94,"descripcion":"Sadfdsafdas","horaFinal":"12:23","horaInicial":"12:23","titulo":"peno","fecha":"2017-01-23","lugar":"asdfasdf","idGrupo":10}
+GET actividad 
+PUT actividad/101 {"id":"101", "descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+GET actividad/101 
+POST actividad/101 {"descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+PUT actividad {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+PUT actividad {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+DELETE actividad/101 {"id":"101","descripcion" :"hola1", "titulo":"tituloUpdate", "fecha":"8/2/2017", "lugar":"IES", "horaInicial":"10:01", "horaFinal":"10:04", "fotoRepresentativaExcursion":"fotoPrueba", "idProfesor" :"20","idGrupo":"2" }
+
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET profesor 
+GET grupo 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
+GET actividad 
